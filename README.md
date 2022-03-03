@@ -1,2 +1,3 @@
 # mern-ecom-lux
-An ecommerce website created with react, nodejs, mongodb and stripe
+A clothing ecommerce website created with react, nodejs, mongodb. Integrated with
+stripe payment method.
